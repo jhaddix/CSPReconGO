@@ -1,6 +1,8 @@
 # CspReconGo
 
-CspReconGo is a cutting-edge command-line tool designed for cybersecurity analysts, web developers, and IT professionals. It automates the extraction and analysis of domains from Content Security Policy (CSP) headers and JavaScript files on websites. This tool is essential for conducting detailed web security audits, understanding external resource interactions, and monitoring changes in CSP and JavaScript-based domain references.
+CspReconGo is a command-line tool designed for cybersecurity analysts, web developers, and IT professionals. 
+
+It automates the extraction and analysis of domains from Content Security Policy (CSP) headers and JavaScript files on websites. This tool is essential for conducting detailed web security audits, understanding external resource interactions, and monitoring changes in CSP and JavaScript-based domain references.
 
 ## Key Features
 

@@ -5,8 +5,8 @@ CspReconGo is a cutting-edge command-line tool designed for cybersecurity analys
 ## Key Features
 
 - **CSP Header Analysis:** Parses CSP headers to identify domains, helping users understand the website's security policies and external dependencies.
-- **JavaScript File Scrutiny:** Automatically fetches and analyzes JavaScript files linked by the website, extracting domain references to reveal third-party integrations and external scripts.
-- **Domain Tracking Across Runs:** Compares results between runs, highlighting newly detected domains, which is invaluable for monitoring changes over time.
+- **JavaScript File Analysis:** Automatically fetches and analyzes JavaScript files linked by the website, extracting domain references to reveal third-party integrations and external scripts.
+- TODO **Domain Tracking Across Runs:** Compares results between runs, highlighting newly detected domains, which is invaluable for monitoring changes over time.
 - **Structured Output:** Neatly organizes and documents the detected domains with a count of unique entries, outputting the results in a user-friendly format for further analysis.
 
 ## Getting Started

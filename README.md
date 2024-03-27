@@ -23,4 +23,16 @@ It automates the extraction and analysis of domains from Content Security Policy
 
    ```shell
    git clone https://github.com/yourusername/CspReconGo.git
-  ```
+   ```
+2. **Download Dependancies**:
+   ```
+   go get -u github.com/chromedp/chromedp
+   ```
+
+### Use
+
+1. **Use as**:
+
+```
+go run CspReconGo.go https://www.examplewebsite.com
+```

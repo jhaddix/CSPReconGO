@@ -22,11 +22,16 @@ It automates the extraction and analysis of domains from Content Security Policy
 1. **Download Source Code**: Clone the repository or download the source code to your local machine.
 
    ```shell
-   git clone https://github.com/yourusername/CspReconGo.git
+   git clone https://github.com/jhaddix/CspReconGo.git && cd CspReconGo
    ```
-2. **Download Dependancies**:
+2. **Initialize a Go module in the directory**:
    ```
-   go get -u github.com/chromedp/chromedp
+   go mod init CspReconGo.go
+   ```
+3. **Download Dependancies**:
+   ```
+   go get github.com/chromedp/chromed
+   go get github.com/chromedp/cdproto/network
    ```
 
 ### Use

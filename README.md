@@ -30,7 +30,7 @@ It automates the extraction and analysis of domains from Content Security Policy
    ```
 3. **Download Dependancies**:
    ```
-   go get github.com/chromedp/chromed
+   go get github.com/chromedp/chromedp
    go get github.com/chromedp/cdproto/network
    ```
 
